@@ -1,5 +1,6 @@
-{
+{ 
     "projects": [
+        
         {   "id": 0,
             "project_name": "Random Quote Generator",
             "description": "A random quote generator that change the background color when switching between quotes.",
@@ -46,6 +47,7 @@
             "image_urls": ["images/employee-directory-main.png", "images/employee-api-2.png"]    
         }
 
-        
+     
     ]
+
 }
