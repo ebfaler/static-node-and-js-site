@@ -2,7 +2,7 @@ const express = require('express');
 //using the router constructor to create a new route
 const router = express.Router();
 
-const projects = require('../data/data.json')
+const data = require('../data/data.json')
 
 
 /*Setting up routes*/
@@ -10,7 +10,7 @@ const projects = require('../data/data.json')
 router.get('/index', (req, res) => {
 
 
-    res.render('index', projects);
+    res.render('index', data);
 
         // const err = new Error();
         // console.log('TESTING');
@@ -37,11 +37,11 @@ router.get('/project/:id', (req, res, next) => {
     // getting the id parameter frrom the incoming request
     const { id } = req.params;
     // looking up a single project by id
-    const project = projects[id];
+    const project = data.projects[id];
 
     if (id) {
         //if id route exists, render the project object to the 'project' pug
-        res.render('project', project);
+        res.render('project', {project});
     }
     else {
         const err = new Error();

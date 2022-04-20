@@ -4,47 +4,47 @@
         {   "id": 0,
             "project_name": "Random Quote Generator",
             "description": "A random quote generator that change the background color when switching between quotes.",
-            "technologies": ["html", "css", "Javascript"],
+            "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://ebfaler.github.io/random-quote-generator/",
             "github_link": "https://github.com/ebfaler/random-quote-generator",
-            "image_urls": ["images/random-quote-main.png", "images/random-quote-1.png" ]    
+            "image_urls": ["/images/random-quote-main.png", "/images/random-quote-2.png" ]    
         },
 
         {   "id": 1,
             "project_name": "Data Pagination and Filtering",
             "description": "Implemented pagination to enhance the usability of a web page.",
-            "technologies": ["html", "css", "Javascript"],
+            "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://ebfaler.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/ebfaler/data-pagination-and-filtering",
-            "image_urls": ["images/data-pagination-main.png", "images/data-pagination-1.png" ]    
+            "image_urls": ["/images/data-pagination-main.png", "/images/data-pagination-1.png" ]    
         },
 
 
         {   "id": 2,
             "project_name": "Interactive Form",
             "description": "An interactive forms created using Regex for form validation.",
-            "technologies": ["html", "css", "Javascript","Regex"],
+            "technologies": ["HTML", "CSS", "Javascript","Regex"],
             "live_link": "https://ebfaler.github.io/interactive-form",
             "github_link": "https://github.com/ebfaler/interactive-form",
-            "image_urls": ["images/interactive-form-main.png", "images/interactive-form-1.png" ]    
+            "image_urls": ["/images/interactive-form-main.png", "/images/interactive-form-1.png" ]    
         },
 
         {   "id": 3,
             "project_name": "Game Show App",
             "description": "A browser based word guessing game using Javascrips and OOP (Object Oriented Programming",
-            "technologies": ["html", "css", "Javascript","OOP"],
+            "technologies": ["HTML", "CSS", "Javascript","OOP"],
             "live_link": "https://ebfaler.github.io/oop-game-show-app/",
             "github_link": "hhttps://github.com/ebfaler/oop-game-show-app",
-            "image_urls": ["images/phrase-hunter-main.png", "images/employee-api-1.png", "images/phrase-hunter-2.png" ]    
+            "image_urls": ["/images/phrase-hunter-main.png", "/images/employee-api-1.png", "/images/phrase-hunter-2.png" ]    
         },
 
         {   "id": 4,
             "project_name": "Public API Requests",
             "description": "An employee directory which uses an API to grab information for 12 random “employees",
-            "technologies": ["html", "css", "Javascript","API"],
+            "technologies": ["HTML", "CSS", "Javascript","API"],
             "live_link": "https://ebfaler.github.io/public-api-requests",
             "github_link": "https://github.com/ebfaler/public-api-requests",
-            "image_urls": ["images/employee-directory-main.png", "images/employee-api-2.png"]    
+            "image_urls": ["/images/employee-directory-main.png", "/images/employee-api-2.png"]    
         }
 
      
