@@ -7,7 +7,7 @@ const data = require('../data/data.json')
 
 /*Setting up routes*/
 //index route to render home page
-router.get('/index', (req, res) => {
+router.get('/', (req, res) => {
 
 
     res.render('index', data);
