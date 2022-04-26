@@ -17,4 +17,10 @@ I have used Node.js and Express to:
 * Handle errors
 * Set up a server to serve the project
 
-Link to Live Project: https://ebfaler.github.io/static-nodejs-and-express-site
+Areas where I have exceeded expectations:
+
+* Set up your package.json file so that running npm start will run the app.
+* Created two new Pug templates, error.pug and page-not-found.pug. They extend the layout and display the error's message and status.
+* Customized the style by changing the font, sidebar background color and adding box shadows around each portfolio.
+
+

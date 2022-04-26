@@ -34,7 +34,7 @@
             "description": "A browser based word guessing game using Javascrips and OOP (Object Oriented Programming",
             "technologies": ["HTML", "CSS", "Javascript","OOP"],
             "live_link": "https://ebfaler.github.io/oop-game-show-app/",
-            "github_link": "hhttps://github.com/ebfaler/oop-game-show-app",
+            "github_link": "https://github.com/ebfaler/oop-game-show-app",
             "image_urls": ["/images/phrase-hunter-main.png", "/images/employee-api-1.png", "/images/phrase-hunter-2.png" ]    
         },
 
